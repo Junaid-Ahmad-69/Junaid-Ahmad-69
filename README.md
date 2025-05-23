@@ -8,23 +8,17 @@ Hi there! I'm an **Associate Software Engineer** at HubexTech & Southville Solut
 ## 🛠️ Technical Expertise  
 
 **Frontend Frameworks:**  
-![Next.js](https://img.shields.io/badge/Next.js-14/15-000000?logo=next.js)  
-![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-14/15-000000?logo=next.js)  ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)  
 
 **State Management:**  
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux)  ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999)  ![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-999999)  
 
 **Styling & UI Libraries:**  
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui)  
-![ShadCn](https://img.shields.io/badge/ShadCn-000000)  
-![AntD](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)  
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)  
-![Sass](https://img.shields.io/badge/SCSS/CSS-CC6699?logo=sass)  
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui)  ![ShadCn](https://img.shields.io/badge/ShadCn-000000)  ![AntD](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)  ![Sass](https://img.shields.io/badge/SCSS/CSS-CC6699?logo=sass)  
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)  
 
 **Build Tools:**  
 ![Gulp](https://img.shields.io/badge/Gulp.js-CF4647?logo=gulp)  
