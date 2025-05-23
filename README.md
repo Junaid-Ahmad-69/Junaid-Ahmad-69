@@ -12,9 +12,7 @@ Hi there! I'm an **Associate Software Engineer** at HubexTech & Southville Solut
 ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)  
 
 **State Management:**  
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux)  
-![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999)  
-![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-999999)  
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux)  ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999)  ![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-999999)  
 
 **Styling & UI Libraries:**  
 ![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui)  
