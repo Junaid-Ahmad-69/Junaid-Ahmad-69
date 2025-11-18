@@ -1,7 +1,7 @@
 # 🚀 Frontend Developer | React.js Specialist & Next.js  
 **Crafting High-Performance UIs**  
 
-Hi there! I'm an **Associate Software Engineer** at HubexTech & Southville Solutions with **3 years of experience** in frontend development, specializing in building intuitive, scalable, and high-performance web applications.
+Hi there! I'm an **Associate Software Engineer** at HubexTech & Southville Solutions with **4 years of experience** in frontend development, specializing in building intuitive, scalable, and high-performance web applications.
 
 ---
 
