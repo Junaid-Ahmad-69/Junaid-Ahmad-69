@@ -18,6 +18,7 @@ Hi there! I'm an **Software Engineer** at Conovo Technology with **4 years of ex
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux)
 ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999)
 ![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-999999)
+
 ![Pinia](https://img.shields.io/badge/Pinia-FFD700?logo=pinia&logoColor=black)
 ![Vuex](https://img.shields.io/badge/Vuex-35495E?logo=vue.js&logoColor=4FC08D)
 ![React_Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
