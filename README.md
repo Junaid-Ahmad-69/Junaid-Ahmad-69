@@ -59,7 +59,7 @@ Hi there! I'm an **Software Engineer** at Conovo Technology with **4 years of ex
 
 Introduction to Front-End Development – Coursera
 
-🔗  [![View Link](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TD4PLFKU03O6/CERTIFICATE_LANDING_PAGE~TD4PLFKU03O6.jpeg)]
+ ![View Link](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TD4PLFKU03O6/CERTIFICATE_LANDING_PAGE~TD4PLFKU03O6.jpeg)
 
 React – The Complete Guide (incl. Next.js & Redux) – Udemy
 
