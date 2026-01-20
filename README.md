@@ -24,8 +24,14 @@ Hi there! I'm an **Software Engineer** at Conovo Technology with **4 years of ex
 
 
 **Styling & UI Libraries:**  
-![MUI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui)  ![ShadCn](https://img.shields.io/badge/ShadCn-000000)  ![AntD](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)  ![Sass](https://img.shields.io/badge/SCSS/CSS-CC6699?logo=sass)  
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?logo=antdesign&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white)
+
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)  
