@@ -8,7 +8,7 @@ Hi there! I'm an **Software Engineer** at Conovo Technology with **4 years of ex
 ## 🛠️ Technical Expertise  
 
 **Frontend Frameworks:**  
-![Next.js](https://img.shields.io/badge/Next.js-14/15-000000?logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
 ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3-35495E?logo=vue.js&logoColor=4FC08D)
 ![Svelte](https://img.shields.io/badge/Svelte-4-FF3E00?logo=svelte&logoColor=white)
