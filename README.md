@@ -55,6 +55,27 @@ Hi there! I'm an **Software Engineer** at Conovo Technology with **4 years of ex
 
 ---
 
+## 📜 Certifications
+
+Introduction to Front-End Development – Coursera
+🔗 https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TD4PLFKU03O6/CERTIFICATE_LANDING_PAGE~TD4PLFKU03O6.jpeg
+
+React – The Complete Guide (incl. Next.js & Redux) – Udemy
+🔗 https://udemy-certificate.s3.amazonaws.com/pdf/UC-308e6482-dde5-424c-8e09-8f5e2e83c9d1.pdf
+
+The Complete JavaScript Course 2024: From Zero to Expert – Udemy
+🔗 https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b80070e-3a37-407b-9539-e62028082b20.pdf
+
+React.js – Great Learning
+🔗 https://dtmvamahs40ux.cloudfront.net/ComplementaryCourseCertificate/3925981/original/Junaid_Ahmad20240104-70-1qz6tzg.jpg
+
+JavaScript – EDUCBA / Great Learning
+🔗 https://www.educba.com/certificate/?c=-UGM7954B
+
+Web Development – EDUCBA / Great Learning
+🔗 https://www.educba.com/certificate/?c=YHNMJU5S2 it does not show in github portfolio
+
+
 ## 🎓 Education & Certifications  
 
 **Bachelor's in Computer Science** – University of Sargodha  
