@@ -1,14 +1,18 @@
 # 🚀 Frontend Developer | React.js Specialist & Next.js  
 **Crafting High-Performance UIs**  
 
-Hi there! I'm an **Associate Software Engineer** at HubexTech & Southville Solutions with **4 years of experience** in frontend development, specializing in building intuitive, scalable, and high-performance web applications.
+Hi there! I'm an **Software Engineer** at Conovo Technology with **4 years of experience** in frontend development, specializing in building intuitive, scalable, and high-performance web applications.
 
 ---
 
 ## 🛠️ Technical Expertise  
 
 **Frontend Frameworks:**  
-![Next.js](https://img.shields.io/badge/Next.js-14/15-000000?logo=next.js)  ![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-14/15-000000?logo=next.js)
+![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-3-35495E?logo=vue.js&logoColor=4FC08D)
+![Svelte](https://img.shields.io/badge/Svelte-4-FF3E00?logo=svelte&logoColor=white)
+
 
 **State Management:**  
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux)  ![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999)  ![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-999999)  
