@@ -63,7 +63,7 @@ Introduction to Front-End Development – Coursera
 
 React – The Complete Guide (incl. Next.js & Redux) – Udemy
 
-![View Link]([https://udemy-certificate.s3.amazonaws.com/pdf/UC-308e6482-dde5-424c-8e09-8f5e2e83c9d1.pdf](https://udemy-certificate.s3.amazonaws.com/pdf/UC-308e6482-dde5-424c-8e09-8f5e2e83c9d1.pdf))
+![View Link]([https://udemy-certificate.s3.amazonaws.com/pdf/UC-308e6482-dde5-424c-8e09-8f5e2e83c9d1.pdf])
 
 The Complete JavaScript Course 2024: From Zero to Expert – Udemy
 
