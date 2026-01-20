@@ -34,13 +34,13 @@ Hi there! I'm an **Software Engineer** at Conovo Technology with **4 years of ex
 
 
 **Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 
 **Build Tools:**  
-![Gulp](https://img.shields.io/badge/Gulp.js-CF4647?logo=gulp)  
+![Gulp](https://img.shields.io/badge/Gulp.js-CF4647?logo=gulp&logoColor=white)  
 
 **Markup:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 
 ---
 
