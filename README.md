@@ -63,11 +63,11 @@ Introduction to Front-End Development – Coursera
 
 React – The Complete Guide (incl. Next.js & Redux) – Udemy
 
-![View Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-308e6482-dde5-424c-8e09-8f5e2e83c9d1.pdf)
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-308e6482-dde5-424c-8e09-8f5e2e83c9d1.pdf
 
 The Complete JavaScript Course 2024: From Zero to Expert – Udemy
 
-![View Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b80070e-3a37-407b-9539-e62028082b20.pdf)
+https://udemy-certificate.s3.amazonaws.com/pdf/UC-4b80070e-3a37-407b-9539-e62028082b20.pdf
 
 React.js – Great Learning
 
@@ -75,11 +75,11 @@ React.js – Great Learning
 
 JavaScript – EDUCBA / Great Learning
 
-![View Link](https://www.educba.com/certificate/?c=-UGM7954B)
+https://www.educba.com/certificate/?c=-UGM7954B
 
 Web Development – EDUCBA / Great Learning
 
-![View Link]([https://www.educba.com/certificate/?c=YHNMJU5S2](https://www.educba.com/certificate/covers/a28935d4afbc594178445f548c858da3.jpg?id=964247))
+https://www.educba.com/certificate/?c=YHNMJU5S2
 
 
 ## 🎓 Education
