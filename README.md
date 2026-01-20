@@ -79,7 +79,7 @@ JavaScript – EDUCBA / Great Learning
 
 Web Development – EDUCBA / Great Learning
 
-![View Link](https://www.educba.com/certificate/?c=YHNMJU5S2)
+![View Link]([https://www.educba.com/certificate/?c=YHNMJU5S2](https://www.educba.com/certificate/covers/a28935d4afbc594178445f548c858da3.jpg?id=964247))
 
 
 ## 🎓 Education
